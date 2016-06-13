@@ -20,7 +20,7 @@
         "issue_mail": "com@flipdot.org"
     },
     "issue_report_channels": [
-        "com@flipdot.org"
+        "issue_mail"
     ],
     "state": {
         "open": true,
